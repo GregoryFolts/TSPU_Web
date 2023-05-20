@@ -1,4 +1,4 @@
-﻿namespace Laboratory_work_2.Controllers
+﻿namespace Laboratory_work_1.Models
 {
     public class User
     {
